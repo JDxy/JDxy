@@ -1,10 +1,15 @@
 ### Hi there 👋
+-   I have a higher degree in web application development from Ana Luisa Benitez Institute.
 
-- Tengo un ciclo superior de desarrollo de aplicaciones web en el instituto Ana Luisa Benitez.
-- Me puedes contactar por aqui josedfs203@gmail.com.
-- Me encanta programar y en mi tiempo libre me dedico a evolucionar mis conocimientos.
-- Actualmente no tengo trabajo pero estoy aprovechando el tiempo haciendo cursos de programacion avanzada en Python
-- Tengo experiencia en SAP, ABAP y SAP FIORI  debido a que he trabajado en el area de desarrollo y consultoria de SAP en DESIC. 
+-   You can contact me here at josedfs203@gmail.com.
+
+-    I love programming, and in my free time, I dedicate myself to advancing my knowledge.
+
+-    Currently, I don't have a job, but I am using my time to improve my programming skills and reinforce what I have learned.
+
+-    I have experience in SAP, ABAP, and SAP FIORI as I have worked in the SAP development and consulting area at DESIC. 
+
+
 
 ### My skills
 
