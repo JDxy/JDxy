@@ -4,7 +4,7 @@
 - Me puedes contactar por aqui josedfs203@gmail.com.
 - Me encanta programar y en mi tiempo libre me dedico a evolucionar mis conocimientos.
 - Actualmente no tengo trabajo pero estoy aprovechando el tiempo haciendo cursos de programacion avanzada en Python
-- Tengo experiencia en SAP y ABAP debido a que he trabajado en el area de desarrollo y consultoria de SAP en DESIC. 
+- Tengo experiencia en SAP, ABAP y SAP FIORI  debido a que he trabajado en el area de desarrollo y consultoria de SAP en DESIC. 
 
 ### My skills
 
