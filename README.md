@@ -9,8 +9,6 @@
 
 -    I have experience in SAP, ABAP, and SAP FIORI as I have worked in the SAP development and consulting area at DESIC. 
 
-
-
 ### My skills
 
 <p align="center">
